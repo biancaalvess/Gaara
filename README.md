@@ -1,6 +1,6 @@
 # 🔴 Gaara of the Desert - Tribute Page
 
-![Gaara Banner](public/gaara.jpg)
+![Gaara Banner] (public/gaara-baby.jpg)
 
 > "The only reason we are so attached to memories is that they don't change, even if the people have changed." - Gaara
 
@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 # 🔴 Gaara do Deserto - Página de Tributo
 
-![Banner do Gaara](public/gaara.jpg)
+![Banner do Gaara](public/gaara-baby.jpg)
 
 > "A única razão pela qual somos tão apegados às memórias é que elas não mudam, mesmo que as pessoas tenham mudado." - Gaara
 
@@ -91,7 +91,6 @@ Como um fã de Gaara, me dediquei a criar uma experiência imersiva que capturas
 - **Next Font**: Para tipografia personalizada
 
 
-4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
 
 ## 🎨 Personalização
 
