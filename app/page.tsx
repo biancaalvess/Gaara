@@ -404,7 +404,7 @@ export default function GaaraPage() {
       <footer className="py-8 border-t border-red-900/30 relative">
         <div className="absolute inset-0 bg-[url('/sand-texture.png')] opacity-5 mix-blend-overlay pointer-events-none"></div>
         <div className="container mx-auto px-4 text-center text-gray-500 text-sm font-body">
-          <p>© {new Date().getFullYear()} Gaara of the Desert Fan Page</p>
+          <p>© {new Date().getFullYear()} Gaara of the Desert Fan Page - Bianca Alves</p>
         </div>
       </footer>
     </main>
