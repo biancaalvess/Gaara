@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 3.9%;
+  --foreground: 0 0% 98%;
+  --card: 0 0% 3.9%;
+  --card-foreground: 0 0% 98%;
+  --popover: 0 0% 3.9%;
+  --popover-foreground: 0 0% 98%;
+  --primary: 0 72.2% 50.6%;
+  --primary-foreground: 0 85.7% 97.3%;
+  --secondary: 0 0% 14.9%;
+  --secondary-foreground: 0 0% 98%;
+  --muted: 0 0% 14.9%;
+  --muted-foreground: 0 0% 63.9%;
+  --accent: 0 0% 14.9%;
+  --accent-foreground: 0 0% 98%;
+  --destructive: 0 62.8% 30.6%;
+  --destructive-foreground: 0 0% 98%;
+  --border: 0 0% 14.9%;
+  --input: 0 0% 14.9%;
+  --ring: 0 72.2% 50.6%;
+  --radius: 0.5rem;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0a0a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3a0404;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #6b0f0f;
+}
+
+/* Custom Font Classes */
+.font-title {
+  font-family: var(--font-cinzel-decorative);
+  letter-spacing: 0.05em;
+  font-weight: 900;
+}
+
+.font-heading {
+  font-family: var(--font-bebas-neue);
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.font-body {
+  font-family: var(--font-crimson-text);
+  letter-spacing: 0.01em;
+}
+
+/* Text shadow for dramatic effect */
+.text-shadow {
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.5);
+}
+
+.text-shadow-lg {
+  text-shadow: 0 0 10px rgba(220, 38, 38, 0.5), 0 0 20px rgba(220, 38, 38, 0.3);
+}
+
+/* Sand-like text effect */
+.text-sand {
+  background: linear-gradient(to bottom, #f5deb3, #d2b48c);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Blood-like text effect */
+.text-blood {
+  background: linear-gradient(to bottom, #ff3333, #8b0000);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
