@@ -1,6 +1,6 @@
 # 🔴 Gaara of the Desert - Tribute Page
 
-![Gaara Banner] (public/gaara-baby.jpg)
+![Banner do Gaara](public/gaara-baby.jpg)
 
 > "The only reason we are so attached to memories is that they don't change, even if the people have changed." - Gaara
 
