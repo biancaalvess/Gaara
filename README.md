@@ -32,37 +32,6 @@ As a fellow Gaara enthusiast, I've poured my heart into creating an immersive ex
 - **Lucide React**: For icons
 - **Next Font**: For custom typography
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Node.js (v18 or higher)
-- npm or yarn
-
-### Installation
-
-1. Clone the repository:
-   \`\`\`bash
-   git clone https://github.com/yourusername/gaara-tribute.git
-   cd gaara-tribute
-   \`\`\`
-
-2. Install dependencies:
-   \`\`\`bash
-   npm install
-   # or
-   yarn install
-   \`\`\`
-
-3. Run the development server:
-   \`\`\`bash
-   npm run dev
-   # or
-   yarn dev
-   \`\`\`
-
-4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
-
 ## 🎨 Customization
 
 Feel free to customize this tribute page to reflect your own appreciation for Gaara:
@@ -80,15 +49,6 @@ What makes Gaara so compelling is how his encounter with Naruto Uzumaki - anothe
 
 His iconic gourd, the "Love" (愛) kanji scarred on his forehead, and his unique sand abilities make him instantly recognizable, while his quiet strength and wisdom make him unforgettable.
 
-## 📝 Personal Note
-
-As a fellow Gaara fan, I understand the deep connection many of us feel to this character. His struggle with loneliness, his journey to find purpose beyond violence, and his eventual growth into a protective leader resonates with many of us. This project is my way of honoring a character who taught us that our past doesn't have to define our future, and that even those who start in darkness can find their way to the light.
-
-## 🙏 Acknowledgments
-
-- Masashi Kishimoto for creating such a profound character
-- The Naruto community for keeping the love for these characters alive
-- All Gaara fans who understand why this character means so much to us
 
 ## 📄 License
 
@@ -130,34 +90,6 @@ Como um fã de Gaara, me dediquei a criar uma experiência imersiva que capturas
 - **Lucide React**: Para ícones
 - **Next Font**: Para tipografia personalizada
 
-## 🚀 Começando
-
-### Pré-requisitos
-
-- Node.js (v18 ou superior)
-- npm ou yarn
-
-### Instalação
-
-1. Clone o repositório:
-\`\`\`bash
-git clone https://github.com/seunomedeusuário/gaara-tribute.git
-cd gaara-tribute
-\`\`\`
-
-2. Instale as dependências:
-\`\`\`bash
-npm install
-# ou
-yarn install
-\`\`\`
-
-3. Execute o servidor de desenvolvimento:
-\`\`\`bash
-npm run dev
-# ou
-yarn dev
-\`\`\`
 
 4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
 
@@ -178,18 +110,9 @@ O que torna Gaara tão cativante é como seu encontro com Naruto Uzumaki – out
 
 Sua icônica cabaça, o kanji "Amor" (愛) marcado em sua testa e suas habilidades únicas com areia o tornam instantaneamente reconhecível, enquanto sua força silenciosa e sabedoria o tornam inesquecível.
 
-## 📝 Nota Pessoal
-
-Como fã de Gaara, entendo a profunda conexão que muitos de nós sentimos com esse personagem. Sua luta contra a solidão, sua jornada para encontrar um propósito além da violência e seu eventual crescimento como um líder protetor ressoam em muitos de nós. Este projeto é minha maneira de homenagear um personagem que nos ensinou que nosso passado não precisa definir nosso futuro e que mesmo aqueles que começam na escuridão podem encontrar o caminho para a luz.
-
-## 🙏 Agradecimentos
-
-- Masashi Kishimoto por criar um personagem tão profundo
-- A comunidade de Naruto por manter vivo o amor por esses personagens
-- Todos os fãs de Gaara que entendem por que esse personagem significa tanto para nós
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo de LICENÇA para obter detalhes.
+
 
 
